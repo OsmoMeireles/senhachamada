@@ -1,4 +1,0 @@
-streamlit
-streamlit-autorefresh
-import streamlit as st
-import os
